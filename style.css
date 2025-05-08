@@ -91,9 +91,10 @@
 @media screen and (max-width: 600px){
     #random .motivation{
         font-size: 15px;
-        width: 350px;
-        margin-left: 10px;
-        width: auto;
+        width: 400px;
+        margin-left: 50px;
+        padding: 10px;
+        margin-top: 55%;
     }
     #random .motivation .project-name {
         font-size: 10px;
