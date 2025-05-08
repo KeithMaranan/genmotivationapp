@@ -88,11 +88,11 @@
     }
 }
 
-@media screen and (min-width: 464px){
+@media screen and (max-width: 600px){
     #random .motivation{
         font-size: 15px;
         width: 350px;
-        margin-left: 50px;
+        margin-left: 10px;
         width: auto;
     }
     #random .motivation .project-name {
