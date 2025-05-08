@@ -91,7 +91,7 @@
 @media screen and (max-width: 464px){
     #random .motivation{
         font-size: 15px;
-        max-width: 350px;
+        width: 350px;
         margin-left: 50px;
         width: auto;
     }
