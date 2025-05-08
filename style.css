@@ -87,3 +87,21 @@
         font-size: 10px;
     }
 }
+
+@media screen and (min-width: 464px){
+    #random .motivation{
+        font-size: 15px;
+        max-width: 350px;
+        margin-left: 50px;
+        width: auto;
+    }
+    #random .motivation .project-name {
+        font-size: 10px;
+    }
+    #random .motivation #motivational{
+        font-size: 15px;
+    }
+    #random .motivation #from{
+        font-size: 15px;
+    }
+}
